@@ -56,11 +56,42 @@ def assign_clouds(num_tasks):
     return VMs
 
 
+def schedule_cloud(vm, current, cloud_num):
+    global graph
+    vm.sort(key=lambda x: tasks[x].indegree())
+    available = []
+    for task_id in vm:
+        if tasks[task_id].indegree() == 0 and arrivals[tasks[task_id].app_num()] <= current:
+            available.append(task_id)
+    if len(available) > 0:
+        available.sort(key=lambda x: APP_MODE[tasks[x].app_num()], reverse=True)
+        task_id = available[0]
+        print('At t=' + str(current) + ' cloud ' + str(cloud_num) + ' runs ' + str(task_id))
+        tasks[task_id].set_start(current)
+        rem = tasks[task_id].burst_time()
+        if rem == 1:
+            tasks[task_id].set_end(current)
+            if task_id in graph.keys():
+                for node in graph[task_id]:
+                    tasks[node].decrease_indegree()
+            vm.remove(task_id)
+        tasks[task_id].set_burst(rem - 1)
+    return vm
+
+
 def schedule(min_arrival, VMs):
-    print(min_arrival, 'scheduler')
-    while True:
+    current_time = min_arrival
+    all_scheduled = False
+    while not all_scheduled:
+        all_scheduled = True
         for i in range(CLOUDS):
-            print('tmp')
+            if len(VMs[i]) > 0:
+                all_scheduled = False
+                VMs[i] = schedule_cloud(VMs[i], current_time, i)
+            else:
+                all_scheduled = all_scheduled and True
+        current_time += 1
+    print('All tasks completed')
 
 
 def __main__():
@@ -71,4 +102,12 @@ def __main__():
     schedule(start_time, VMs)
 
 
+print('Total Clouds: ' + str(CLOUDS))
+print('Total workflows: ' + str(APPS))
+
 __main__()
+
+for process in tasks.keys():
+    print('Task ' + str(process) + ' belongs to workflow ' + str(tasks[process].app_num()))
+    makespan = tasks[process].get_end() - tasks[process].get_start()
+    print('Makespan for task=' + str(process) + ' is ' + str(makespan))

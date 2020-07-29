@@ -1,7 +1,7 @@
 from random import randint
 
-CLOUDS = 3 + randint(1, 100) % 7
-APPS = 2 + randint(1, 100) % 3
+CLOUDS = 3 + randint(1, 100) % 4
+APPS = 2 + randint(1, 100) % 5
 
 MAX_HEIGHT = 5
 MIN_HEIGHT = 2
@@ -13,16 +13,17 @@ DIFF = 5
 
 tasks = {}
 APP_MODE = {}
-modes = ['BE', 'AR']
 arrivals = [0 for i in range(APPS)]
 for i in range(APPS):
-    APP_MODE[i] = modes[randint(1, 10) % 2]
+    APP_MODE[i] = randint(1, 10) % 2
 
 
 class Task(object):
     def __init__(self, app):
         self.app = app
         self.burst = 0
+        self.start = 0
+        self.end = 0
         self.in_degree = 0
 
     def burst_time(self):
@@ -42,3 +43,16 @@ class Task(object):
 
     def increase_indegree(self):
         self.in_degree += 1
+
+    def set_start(self, start):
+        if self.start == 0:
+            self.start = start
+
+    def get_start(self):
+        return self.start
+
+    def set_end(self, end):
+        self.end = end
+
+    def get_end(self):
+        return self.end

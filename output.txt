@@ -1,0 +1,297 @@
+Total Clouds: 3
+Total workflows: 5
+All clouds are empty until 1
+At t=2 cloud 1 runs 9
+At t=3 cloud 1 runs 9
+At t=4 cloud 1 runs 5
+At t=5 cloud 1 runs 5
+At t=6 cloud 1 runs 5
+At t=7 cloud 1 runs 5
+At t=8 cloud 0 runs 18
+At t=8 cloud 1 runs 5
+At t=9 cloud 0 runs 18
+At t=9 cloud 1 runs 5
+At t=10 cloud 0 runs 18
+At t=10 cloud 1 runs 5
+At t=11 cloud 0 runs 18
+At t=11 cloud 1 runs 8
+At t=12 cloud 0 runs 18
+At t=12 cloud 1 runs 8
+At t=13 cloud 0 runs 18
+At t=13 cloud 1 runs 8
+At t=14 cloud 0 runs 18
+At t=14 cloud 1 runs 8
+At t=15 cloud 0 runs 19
+At t=15 cloud 1 runs 8
+At t=16 cloud 0 runs 19
+At t=16 cloud 1 runs 8
+At t=17 cloud 0 runs 27
+At t=17 cloud 1 runs 8
+At t=18 cloud 0 runs 27
+At t=18 cloud 1 runs 8
+At t=19 cloud 0 runs 27
+At t=19 cloud 1 runs 8
+At t=20 cloud 0 runs 27
+At t=20 cloud 1 runs 8
+At t=21 cloud 0 runs 0
+At t=21 cloud 1 runs 8
+At t=22 cloud 0 runs 0
+At t=22 cloud 1 runs 8
+At t=23 cloud 0 runs 0
+At t=23 cloud 1 runs 8
+At t=24 cloud 1 runs 8
+At t=25 cloud 1 runs 9
+At t=26 cloud 1 runs 9
+At t=27 cloud 1 runs 9
+At t=28 cloud 1 runs 9
+At t=29 cloud 1 runs 9
+At t=30 cloud 1 runs 9
+At t=31 cloud 1 runs 9
+At t=32 cloud 1 runs 10
+At t=33 cloud 1 runs 10
+At t=34 cloud 1 runs 10
+At t=35 cloud 1 runs 10
+At t=36 cloud 1 runs 10
+At t=37 cloud 1 runs 10
+At t=38 cloud 0 runs 12
+At t=38 cloud 1 runs 11
+At t=39 cloud 0 runs 12
+At t=39 cloud 1 runs 11
+At t=40 cloud 0 runs 12
+At t=40 cloud 1 runs 11
+At t=41 cloud 0 runs 12
+At t=41 cloud 1 runs 13
+At t=42 cloud 1 runs 13
+At t=43 cloud 1 runs 13
+At t=44 cloud 1 runs 13
+At t=45 cloud 1 runs 13
+At t=46 cloud 1 runs 13
+At t=47 cloud 1 runs 13
+At t=48 cloud 1 runs 13
+At t=49 cloud 1 runs 13
+At t=50 cloud 1 runs 13
+At t=51 cloud 1 runs 16
+At t=52 cloud 1 runs 16
+At t=53 cloud 1 runs 16
+At t=54 cloud 1 runs 16
+At t=55 cloud 1 runs 16
+At t=56 cloud 1 runs 16
+At t=57 cloud 1 runs 16
+At t=58 cloud 1 runs 16
+At t=59 cloud 1 runs 16
+At t=60 cloud 1 runs 16
+At t=61 cloud 1 runs 17
+At t=62 cloud 1 runs 17
+At t=63 cloud 1 runs 17
+At t=64 cloud 1 runs 17
+At t=65 cloud 1 runs 26
+At t=66 cloud 1 runs 26
+At t=67 cloud 1 runs 26
+At t=68 cloud 1 runs 26
+At t=69 cloud 1 runs 26
+At t=70 cloud 1 runs 26
+At t=71 cloud 1 runs 26
+At t=72 cloud 1 runs 26
+At t=73 cloud 1 runs 26
+At t=74 cloud 1 runs 26
+At t=75 cloud 1 runs 26
+At t=76 cloud 1 runs 26
+At t=77 cloud 1 runs 26
+At t=78 cloud 1 runs 29
+At t=79 cloud 1 runs 29
+At t=80 cloud 1 runs 29
+At t=81 cloud 0 runs 31
+At t=81 cloud 1 runs 32
+At t=82 cloud 0 runs 31
+At t=82 cloud 1 runs 32
+At t=83 cloud 0 runs 31
+At t=83 cloud 1 runs 32
+At t=84 cloud 1 runs 32
+At t=85 cloud 1 runs 32
+At t=86 cloud 1 runs 32
+At t=87 cloud 1 runs 32
+At t=88 cloud 1 runs 32
+At t=89 cloud 1 runs 32
+At t=90 cloud 1 runs 33
+At t=91 cloud 1 runs 33
+At t=92 cloud 1 runs 33
+At t=93 cloud 1 runs 33
+At t=94 cloud 1 runs 6
+At t=95 cloud 1 runs 6
+At t=96 cloud 1 runs 6
+At t=97 cloud 1 runs 20
+At t=98 cloud 1 runs 20
+At t=99 cloud 1 runs 20
+At t=100 cloud 1 runs 20
+At t=101 cloud 1 runs 20
+At t=102 cloud 1 runs 20
+At t=103 cloud 1 runs 20
+At t=104 cloud 1 runs 20
+At t=105 cloud 1 runs 22
+At t=106 cloud 1 runs 22
+At t=107 cloud 1 runs 22
+At t=108 cloud 1 runs 22
+At t=109 cloud 1 runs 22
+At t=110 cloud 1 runs 22
+At t=111 cloud 1 runs 22
+At t=112 cloud 1 runs 22
+At t=113 cloud 1 runs 22
+At t=114 cloud 1 runs 22
+At t=115 cloud 1 runs 24
+At t=116 cloud 1 runs 24
+At t=117 cloud 1 runs 24
+At t=118 cloud 1 runs 24
+At t=119 cloud 1 runs 24
+At t=120 cloud 1 runs 24
+At t=121 cloud 1 runs 21
+At t=122 cloud 1 runs 21
+At t=123 cloud 1 runs 21
+At t=124 cloud 1 runs 14
+At t=125 cloud 1 runs 14
+At t=126 cloud 1 runs 14
+At t=127 cloud 1 runs 14
+At t=128 cloud 1 runs 14
+At t=129 cloud 1 runs 14
+At t=130 cloud 1 runs 14
+At t=131 cloud 1 runs 14
+At t=132 cloud 1 runs 14
+At t=133 cloud 1 runs 14
+At t=134 cloud 1 runs 14
+At t=135 cloud 1 runs 14
+At t=136 cloud 1 runs 14
+At t=137 cloud 1 runs 14
+At t=138 cloud 1 runs 15
+At t=139 cloud 1 runs 15
+At t=140 cloud 1 runs 15
+At t=141 cloud 1 runs 28
+At t=142 cloud 1 runs 28
+At t=143 cloud 1 runs 28
+At t=144 cloud 1 runs 28
+At t=145 cloud 1 runs 28
+At t=146 cloud 1 runs 28
+At t=147 cloud 1 runs 28
+At t=148 cloud 1 runs 34
+At t=149 cloud 1 runs 34
+At t=150 cloud 1 runs 34
+At t=151 cloud 1 runs 34
+At t=152 cloud 1 runs 34
+At t=153 cloud 1 runs 34
+At t=154 cloud 1 runs 34
+At t=155 cloud 1 runs 34
+At t=156 cloud 1 runs 34
+At t=157 cloud 1 runs 7
+At t=158 cloud 1 runs 7
+At t=159 cloud 1 runs 7
+At t=160 cloud 1 runs 25
+At t=161 cloud 1 runs 25
+At t=162 cloud 1 runs 23
+At t=163 cloud 1 runs 23
+At t=164 cloud 1 runs 30
+At t=165 cloud 1 runs 30
+At t=166 cloud 1 runs 30
+At t=167 cloud 1 runs 30
+At t=168 cloud 1 runs 35
+At t=169 cloud 1 runs 35
+At t=170 cloud 1 runs 35
+At t=171 cloud 1 runs 1
+At t=172 cloud 1 runs 1
+At t=173 cloud 1 runs 1
+At t=174 cloud 1 runs 1
+At t=175 cloud 1 runs 1
+At t=176 cloud 1 runs 1
+At t=177 cloud 1 runs 1
+At t=178 cloud 1 runs 2
+At t=179 cloud 1 runs 2
+At t=180 cloud 1 runs 2
+At t=181 cloud 1 runs 2
+At t=182 cloud 1 runs 2
+At t=183 cloud 1 runs 2
+At t=184 cloud 1 runs 2
+At t=185 cloud 1 runs 2
+At t=186 cloud 1 runs 4
+At t=187 cloud 1 runs 4
+At t=188 cloud 1 runs 4
+At t=189 cloud 1 runs 4
+At t=190 cloud 1 runs 4
+At t=191 cloud 1 runs 3
+At t=192 cloud 1 runs 3
+At t=193 cloud 1 runs 3
+At t=194 cloud 1 runs 3
+At t=195 cloud 1 runs 3
+At t=196 cloud 1 runs 3
+At t=197 cloud 1 runs 3
+At t=198 cloud 1 runs 3
+At t=199 cloud 1 runs 3
+All tasks completed
+Task 0 belongs to workflow 0
+Makespan for task=0 is 2
+Task 1 belongs to workflow 0
+Makespan for task=1 is 6
+Task 2 belongs to workflow 0
+Makespan for task=2 is 7
+Task 3 belongs to workflow 0
+Makespan for task=3 is 8
+Task 4 belongs to workflow 0
+Makespan for task=4 is 4
+Task 5 belongs to workflow 1
+Makespan for task=5 is 6
+Task 6 belongs to workflow 1
+Makespan for task=6 is 2
+Task 7 belongs to workflow 1
+Makespan for task=7 is 2
+Task 8 belongs to workflow 1
+Makespan for task=8 is 13
+Task 9 belongs to workflow 2
+Makespan for task=9 is 29
+Task 10 belongs to workflow 2
+Makespan for task=10 is 5
+Task 11 belongs to workflow 2
+Makespan for task=11 is 2
+Task 12 belongs to workflow 2
+Makespan for task=12 is 3
+Task 13 belongs to workflow 2
+Makespan for task=13 is 9
+Task 14 belongs to workflow 2
+Makespan for task=14 is 13
+Task 15 belongs to workflow 2
+Makespan for task=15 is 2
+Task 16 belongs to workflow 2
+Makespan for task=16 is 9
+Task 17 belongs to workflow 2
+Makespan for task=17 is 3
+Task 18 belongs to workflow 3
+Makespan for task=18 is 6
+Task 19 belongs to workflow 3
+Makespan for task=19 is 1
+Task 20 belongs to workflow 3
+Makespan for task=20 is 7
+Task 21 belongs to workflow 3
+Makespan for task=21 is 2
+Task 22 belongs to workflow 3
+Makespan for task=22 is 9
+Task 23 belongs to workflow 3
+Makespan for task=23 is 1
+Task 24 belongs to workflow 3
+Makespan for task=24 is 5
+Task 25 belongs to workflow 3
+Makespan for task=25 is 1
+Task 26 belongs to workflow 4
+Makespan for task=26 is 12
+Task 27 belongs to workflow 4
+Makespan for task=27 is 3
+Task 28 belongs to workflow 4
+Makespan for task=28 is 6
+Task 29 belongs to workflow 4
+Makespan for task=29 is 2
+Task 30 belongs to workflow 4
+Makespan for task=30 is 3
+Task 31 belongs to workflow 4
+Makespan for task=31 is 2
+Task 32 belongs to workflow 4
+Makespan for task=32 is 8
+Task 33 belongs to workflow 4
+Makespan for task=33 is 3
+Task 34 belongs to workflow 4
+Makespan for task=34 is 8
+Task 35 belongs to workflow 4
+Makespan for task=35 is 2
